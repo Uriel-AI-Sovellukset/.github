@@ -20,4 +20,4 @@ Etsimme kaikenkaltaisia ihmisiä erilaisiin rooleihin kuten
 
 Jos sinulla on mikään taito, idea, tai muutos jonka uskot voivan auttaa Uriel Tekoäly Chattia, ota rohkeasti yhteyttä, kaikkia ehdotuksia arvostetaan 🙏
 
-yhteydenotto: [yhteydenotto@urielai.com](https://mailto:yhteydenotto@urielai.com)
+yhteydenotto: yhteydenotto@urielai.com
