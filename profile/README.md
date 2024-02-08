@@ -13,7 +13,7 @@ Sovelluksen arvostelu on Play Storessa 4.2⭐ ja App Storessa 4.5⭐, sovellukse
 
 ## Yhteistyö
 Kiinnostaako sinua edistää Suomalaisen 🇫🇮 teknologian menestystä ja hankkia kokemusta tekoälysovellusten parissa?
-Etsimme kaikenkaltaisia ihmisiä erilaisiin rooleihin kuten 
+Etsimme kaikenkaltaisia apukäsiä erilaisiin rooleihin kuten 
 
 - Markkinointiin 📈
 - Testaukseen 🔍
