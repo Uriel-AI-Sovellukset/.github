@@ -16,7 +16,7 @@ Etsimme kaikenkaltaisia ihmisiä erilaisiin rooleihin kuten
 - Web-kehitykseen
 - Blogien kirjoittamiseen
 - Strategiointiin/neuvonantoon
-- Kuvanmuokkaukseen
+- Kuvanmuokkaukseen(photoshop)
 
 Jos sinulla on mikään taito, idea, tai muutos jonka uskot voivan auttaa Uriel Tekoäly Chattia, ota rohkeasti yhteyttä, kaikkia ehdotuksia arvostetaan 🙏
 
