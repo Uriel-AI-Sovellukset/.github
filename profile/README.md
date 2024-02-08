@@ -1,3 +1,5 @@
+![Feature Graph](https://github.com/Uriel-AI-Sovellukset/.github/assets/116632370/aa195eed-aa21-4ea6-ade7-f73e0b05f426)
+
 ## Uriel AI Sovellukset
 Uriel AI Sovellukset on iOS:lle ja Androidille ladattavaa 'Uriel Tekoäly Chat' mobiilisovellusta ylläpitävä organisaatio. 
 Uriel Tekoäly Chat on suomalaisille 🇫🇮 räätälöity kotimainen tekstin kautta toimiva tekoälyapuri. Uriel Tekoälystä saat apua ja ohjeistusta esimerkiksi leivontareseptin tekemiseen tai viestin kirjoittamiseen. 
