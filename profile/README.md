@@ -2,8 +2,8 @@
 Uriel-AI-Sovellukset on iOS:lle ja Androidille ladattavaa 'Uriel Tekoäly Chat' mobiilisovellusta ylläpitävä organisaatio. 
 Uriel Tekoäly Chat on suomalaisille 🇫🇮 räätälöity kotimainen tekstin kautta toimiva tekoälyapuri. Uriel Tekoälystä saat apua ja ohjeistusta esimerkiksi leivontareseptin tekemiseen tai viestin kirjoittamiseen. 
 
-[Android](https://play.google.com/store/apps/details?id=com.juho_korhonen.UrielChat)<br/>
-[iOS](https://apps.apple.com/fi/app/uriel-teko%C3%A4ly-chat-suomi/id6451487039)
+[Android linkki](https://play.google.com/store/apps/details?id=com.juho_korhonen.UrielChat)<br/>
+[iOS linkki](https://apps.apple.com/fi/app/uriel-teko%C3%A4ly-chat-suomi/id6451487039)
 
 Sovellus on julkaistu 25.7.2023, ja sen kehittäminen jatkuu yhä.
 
