@@ -1,14 +1,15 @@
+# Uriel AI Sovellukset (Uriel Tekoäly Chat)
 ![Feature Graph](https://github.com/Uriel-AI-Sovellukset/.github/assets/116632370/aa195eed-aa21-4ea6-ade7-f73e0b05f426)
-
-## Uriel AI Sovellukset
+## Tietoa organisaatiosta
 Uriel AI Sovellukset on iOS:lle ja Androidille ladattavaa 'Uriel Tekoäly Chat' mobiilisovellusta ylläpitävä organisaatio. 
+## Tietoa Uriel Tekoäly Chatista
 Uriel Tekoäly Chat on suomalaisille 🇫🇮 räätälöity kotimainen tekstin kautta toimiva tekoälyapuri. Uriel Tekoälystä saat apua ja ohjeistusta esimerkiksi leivontareseptin tekemiseen tai viestin kirjoittamiseen. 
 
 [Android linkki](https://play.google.com/store/apps/details?id=com.juho_korhonen.UrielChat)<br/>
 [iOS linkki](https://apps.apple.com/fi/app/uriel-teko%C3%A4ly-chat-suomi/id6451487039)
 
 Sovellus on julkaistu 25.7.2023, ja sen kehittäminen jatkuu yhä.
-
+## Yhteistyö
 Kiinnostaako sinua edistää Suomalaisen 🇫🇮 teknologian menestystä ja hankkia kokemusta tekoälysovellusten parissa?
 Etsimme kaikenkaltaisia ihmisiä erilaisiin rooleihin kuten 
 - Markkinointiin
