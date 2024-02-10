@@ -22,7 +22,7 @@ Etsimme kaikenkaltaisia apukäsiä erilaisiin rooleihin kuten
 - Web-kehitykseen 🌐
 - Blogien kirjoittamiseen ✏️
 - Strategiointiin/neuvonantoon 🏆
-- Kuvanmuokkaukseen(photoshop) 🎨
+- Grafiikoiden kehittämiseen(photoshop) 🎨
 
 Jos sinulla on mikään taito, idea, tai muutos jonka uskot voivan auttaa Uriel Tekoäly Chattia, ota rohkeasti yhteyttä, kaikkia ehdotuksia arvostetaan 🙏
 
