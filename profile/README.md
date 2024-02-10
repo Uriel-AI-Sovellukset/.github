@@ -12,7 +12,7 @@ Sovellus on julkaistu 25.7.2023, ja sen kehittäminen jatkuu yhä. <br><br>
 Sovelluksen arvostelu on Play Storessa 4.2⭐ ja App Storessa 4.5⭐, sovelluksella on yhteensä lähemmäs tuhat lataajaa, ja latausmäärä kasvaa päivittäin📈. (Tieto päivitetty 8.2.2024)
 
 ## 🤝 Yhteistyö
-Kiinnostaako sinua edistää Suomalaisen 🇫🇮 teknologian menestystä ja hankkia kokemusta tekoälysovellusten parissa?
+Kiinnostaako sinua edistää Suomalaisen 🇫🇮 teknologian menestystä, hankkia arvokasta kokemusta tekoälysovellusten parissa ja luoda näyttöä portfolioosi?
 Etsimme kaikenkaltaisia apukäsiä erilaisiin rooleihin kuten 
 
 - Markkinointiin 📈
